@@ -10,4 +10,4 @@
 2. CSS
 3. JavaScript
 
-참고 사이트: [초급 Vanilla 자바 스크립트 프로젝트 튜토리얼](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
+참고 사이트: [Beginner Vanilla Javascript Project Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
